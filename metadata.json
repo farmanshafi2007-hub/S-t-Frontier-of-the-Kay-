@@ -1,0 +1,6 @@
+{
+  "name": "Söğüt: Frontier of the Kayı",
+  "description": "An open-world medieval Anatolian action-adventure and horse combat game featuring dynamic day/night cycles, weather systems, mounted archery, and nomadic village life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
